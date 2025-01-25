@@ -3,7 +3,7 @@ import React, { useState } from "react";
 function Card({ role, techStack, jobDescriptionLink, applyNowText }) {
     return (
         <div className="card h-90 w-72 bg-transparent shadow shadow-[#27272a] shadow-md rounded-xl border-1px border border-[#27272a] p-2">
-            <div className="min-h-[80%] max-w-full bg-transparent rounded-lg p-2 flex flex-col justify-between">
+            <div className="min-h-[80%] max-w-full bg-transparent rounded-lg p-2 p-4 flex flex-col justify-between">
                 {/* Date of posting */}
                 <div className="date w-fit rounded-2xl px-3 py-1 bg-transparent flex justify-start items-center text-white font-bold">
                     {/* {role.date} */}
