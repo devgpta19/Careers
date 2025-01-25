@@ -1,0 +1,63 @@
+[
+    {
+      "date": "25 Jan, 2025",
+      "role": {
+        "title": "Frontend Developer",
+        "type": "Internship"
+      },
+      "techStack": ["Html", "TailwindCSS", "Javascript", "React.js"],
+      "jobDescriptionLink": "#",
+      "applyNowText": "Apply Now"
+    },
+    {
+      "date": "26 Jan, 2025",
+      "role": {
+        "title": "Backend Developer",
+        "type": "Full-time"
+      },
+      "techStack": ["Node.js", "Express.js", "MongoDB", "GraphQL"],
+      "jobDescriptionLink": "#",
+      "applyNowText": "Apply Now"
+    },
+    {
+      "date": "27 Jan, 2025",
+      "role": {
+        "title": "UI/UX Designer",
+        "type": "Freelance"
+      },
+      "techStack": ["Figma", "Adobe XD", "Sketch", "InVision"],
+      "jobDescriptionLink": "#",
+      "applyNowText": "Apply Now"
+    },
+    {
+      "date": "28 Jan, 2025",
+      "role": {
+        "title": "Data Scientist",
+        "type": "Full-time"
+      },
+      "techStack": ["Python", "Pandas", "Scikit-learn", "TensorFlow"],
+      "jobDescriptionLink": "#",
+      "applyNowText": "Apply Now"
+    },
+    {
+      "date": "29 Jan, 2025",
+      "role": {
+        "title": "Product Manager",
+        "type": "Part-time"
+      },
+      "techStack": ["Jira", "Trello", "Confluence", "Slack"],
+      "jobDescriptionLink": "#",
+      "applyNowText": "Apply Now"
+    },
+    {
+      "date": "30 Jan, 2025",
+      "role": {
+        "title": "DevOps Engineer",
+        "type": "Contract"
+      },
+      "techStack": ["Docker", "Kubernetes", "AWS", "Terraform"],
+      "jobDescriptionLink": "#",
+      "applyNowText": "Apply Now"
+    }
+  ]
+  
