@@ -47,7 +47,7 @@ const JobDescription = () => {
                     <div className="border-b-[1px] border-zinc-700 mt-5"></div>
 
                     {/* Tech Stack and Description */}
-                    <div className="mt-10 lg:mt-14 px-14 py-5">
+                    <div className="mt-10 lg:mt-14 py-5">
                         {/* Tech Stack */}
                         <div className="text-[#a1a1aa] text-xs lg:text-sm">
                             <p>
