@@ -6,7 +6,8 @@
         "type": "Internship"
       },
       "techStack": ["Html", "TailwindCSS", "Javascript", "React.js"],
-      "jobDescriptionLink": "#",
+      "jobDescriptionLink": "/job-description/0",
+      "jobDescription":"We are seeking a motivated Frontend Developer Intern to join our team. You will work on creating responsive web interfaces and delivering seamless user experiences. Collaborating with senior developers, you will learn to translate UI/UX designs into functional web pages using HTML, CSS, and JavaScript. Proficiency in React.js and TailwindCSS is preferred. This is an excellent opportunity to sharpen your skills, gain real-world experience, and make an impact on innovative projects.",
       "applyNowText": "Apply Now"
     },
     {
@@ -16,7 +17,8 @@
         "type": "Full-time"
       },
       "techStack": ["Node.js", "Express.js", "MongoDB", "GraphQL"],
-      "jobDescriptionLink": "#",
+      "jobDescriptionLink": "/job-description/1",
+      "jobDescription":"Join our dynamic team as a Backend Developer. You will design and maintain robust server-side architecture and APIs. We seek expertise in Node.js, Express.js, and MongoDB, with an added advantage of experience in GraphQL. You will collaborate with frontend developers to integrate user-facing components and ensure data security and performance optimization. Be ready to solve challenges and contribute to building scalable systems.",
       "applyNowText": "Apply Now"
     },
     {
@@ -26,7 +28,8 @@
         "type": "Freelance"
       },
       "techStack": ["Figma", "Adobe XD", "Sketch", "InVision"],
-      "jobDescriptionLink": "#",
+      "jobDescriptionLink": "/job-description/2",
+      "jobDescription":"We are looking for a creative UI/UX Designer to deliver engaging and intuitive designs. Proficiency in tools like Figma, Adobe XD, Sketch, and InVision is required. You’ll design wireframes, prototypes, and user flows for various platforms. Strong collaboration skills are necessary as you’ll work with developers and product teams to ensure designs are implemented as envisioned.",
       "applyNowText": "Apply Now"
     },
     {
@@ -36,7 +39,8 @@
         "type": "Full-time"
       },
       "techStack": ["Python", "Pandas", "Scikit-learn", "TensorFlow"],
-      "jobDescriptionLink": "#",
+      "jobDescriptionLink": "/job-description/3",
+      "jobDescription":"We are hiring a Data Scientist to analyze large datasets and provide actionable insights. Expertise in Python, Pandas, and Scikit-learn is crucial, with knowledge of TensorFlow for machine learning applications. You will build predictive models, data pipelines, and visualizations to support decision-making. The ideal candidate is analytical, detail-oriented, and passionate about data-driven innovation.",
       "applyNowText": "Apply Now"
     },
     {
@@ -46,7 +50,8 @@
         "type": "Part-time"
       },
       "techStack": ["Jira", "Trello", "Confluence", "Slack"],
-      "jobDescriptionLink": "#",
+      "jobDescriptionLink": "/job-description/4",
+      "jobDescription":"We are looking for a part-time Product Manager to oversee product development and delivery. Familiarity with tools like Jira, Trello, Confluence, and Slack is essential. You will coordinate with cross-functional teams, prioritize tasks, and ensure that products align with customer needs. Strong communication skills and an ability to manage time effectively are key to succeeding in this role.",
       "applyNowText": "Apply Now"
     },
     {
@@ -56,7 +61,8 @@
         "type": "Contract"
       },
       "techStack": ["Docker", "Kubernetes", "AWS", "Terraform"],
-      "jobDescriptionLink": "#",
+      "jobDescriptionLink": "/job-description/5",
+      "jobDescription":"We are seeking an experienced DevOps Engineer for a contract position. You will be responsible for deploying and managing cloud infrastructure using AWS, Docker, Kubernetes, and Terraform. You will automate CI/CD pipelines, monitor system performance, and ensure reliability. A strong understanding of containerization and cloud architecture is required.",
       "applyNowText": "Apply Now"
     }
   ]

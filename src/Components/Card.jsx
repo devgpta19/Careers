@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router";
 
 function Card({ role, techStack, jobDescriptionLink, applyNowText }) {
     return (
@@ -27,11 +28,11 @@ function Card({ role, techStack, jobDescriptionLink, applyNowText }) {
             <div className="h-[20%] w-full p-2">
                 <div className="h-full w-full flex justify-between items-center">
                     {/* Job Description Link */}
-                    <a href={jobDescriptionLink} className="text-sm text-white underline focus:underline-none">
+                    <Link to={jobDescriptionLink} className="text-sm text-white underline focus:underline-none">
                         Job Description
-                    </a>
+                    </Link>
                     {/* Apply Now Button */}
-                    <button className="bg-[#ab20fd] rounded-4xl p-2 pb-3 flex hover:bg-purple-600 hover:cursor-pointer">
+                    <button className="bg-[#ab20fd] w-fit rounded-4xl p-2 lg:pb-3 flex hover:bg-purple-600 hover:cursor-pointer">
                         {applyNowText}
                     </button>
                 </div>
