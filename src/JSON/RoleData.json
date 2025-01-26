@@ -3,7 +3,8 @@
       "date": "25 Jan, 2025",
       "role": {
         "title": "Frontend Developer",
-        "type": "Internship"
+        "type": "Internship",
+        "location": "Remote"
       },
       "techStack": ["Html", "TailwindCSS", "Javascript", "React.js"],
       "jobDescriptionLink": "/job-description/0",
@@ -14,7 +15,8 @@
       "date": "26 Jan, 2025",
       "role": {
         "title": "Backend Developer",
-        "type": "Full-time"
+        "type": "Full-time",
+        "location": "Remote"
       },
       "techStack": ["Node.js", "Express.js", "MongoDB", "GraphQL"],
       "jobDescriptionLink": "/job-description/1",
@@ -25,7 +27,8 @@
       "date": "27 Jan, 2025",
       "role": {
         "title": "UI/UX Designer",
-        "type": "Freelance"
+        "type": "Freelance",
+        "location": "Remote"
       },
       "techStack": ["Figma", "Adobe XD", "Sketch", "InVision"],
       "jobDescriptionLink": "/job-description/2",
@@ -36,7 +39,8 @@
       "date": "28 Jan, 2025",
       "role": {
         "title": "Data Scientist",
-        "type": "Full-time"
+        "type": "Full-time",
+        "location": "Remote"
       },
       "techStack": ["Python", "Pandas", "Scikit-learn", "TensorFlow"],
       "jobDescriptionLink": "/job-description/3",
@@ -47,7 +51,8 @@
       "date": "29 Jan, 2025",
       "role": {
         "title": "Product Manager",
-        "type": "Part-time"
+        "type": "Part-time",
+        "location": "Remote"
       },
       "techStack": ["Jira", "Trello", "Confluence", "Slack"],
       "jobDescriptionLink": "/job-description/4",
@@ -58,7 +63,8 @@
       "date": "30 Jan, 2025",
       "role": {
         "title": "DevOps Engineer",
-        "type": "Contract"
+        "type": "Contract",
+        "location": "Remote"
       },
       "techStack": ["Docker", "Kubernetes", "AWS", "Terraform"],
       "jobDescriptionLink": "/job-description/5",

@@ -2,6 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import RoleData from '../JSON/RoleData.json';
 import NavBar from './NavBar';
+import { CiLocationOn } from "react-icons/ci";
 
 const JobDescription = () => {
     const { jobId } = useParams();
@@ -35,12 +36,17 @@ const JobDescription = () => {
                                 Apply Now
                             </button>
                         </div>
-                        <p className="text-[#a1a1aa] text-xs lg:text-sm lg:mt-2 mt-8 ">
-                            <strong>Type:</strong> {role.role.type}
-                        </p>
-                        <p className="text-[#a1a1aa] text-xs lg:text-sm">
-                            <strong>Posting Date:</strong> {role.date}
-                        </p>
+                        <div className='flex flex-col xl:gap-3 gap-2'>
+                            <p className="text-[#a1a1aa] text-xs lg:text-sm lg:mt-2 mt-8 ">
+                                <strong>Type:</strong> {role.role.type}
+                            </p>
+                            <p className="text-[#a1a1aa] text-xs lg:text-sm">
+                                <strong>Posting Date:</strong> {role.date}
+                            </p>
+                            <p className="text-[#a1a1aa] text-xs lg:text-sm flex w-fit gap-1 items-center">
+                                <strong className='text-[#ab20fd]'><CiLocationOn /></strong> {role.role.location}
+                            </p>
+                        </div>
                     </div>
 
                     {/* Divider */}
